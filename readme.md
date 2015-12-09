@@ -26,7 +26,7 @@ What follows is a list of stakeholders of Newspeak Events, and what their needs 
  - b) Can book spaces [x]
     - Currently both of the above happens through Newspeak house
  
-// Above are project Outcomes... The MVP system should be achieving these Outcomes. Can we link issues to the Outcomes??
+Please submit enhancements for how to achieve these High Level User Needs more effectively as Pull Requests, or point out issues with the Issue Tracker.
 
 ---
 
