@@ -24,7 +24,7 @@ What follows is a list of stakeholders of Newspeak Events, and what their needs 
 
  - a) Can see available dates / spaces [x]
  - b) Can book spaces [x]
-    - Currently both of the above happens through Newspeak house
+    - Currently both of the above happens through Newspeak House staff
  
 Please submit enhancements for how to achieve these High Level User Needs more effectively as Pull Requests, or point out issues with the Issue Tracker.
 
